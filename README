@@ -1,1 +1,3 @@
 ejercicio1
+en este ejercicio lo que me pide es que el usuario ingrese dos numeros y ademas que haga operaciones con ellos;
+entonces despues de pedir los numeros inicializando el escaner como sc, inicialice 5 variables que representan las 5 operaciones fundamentales y imprimi los resultados
