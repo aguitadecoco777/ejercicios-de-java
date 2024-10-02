@@ -14,4 +14,7 @@ En este ejercicio se nos pide que hallemos el dinero restante despues de un mes 
 pa resolverlo es muy sencillo porque ya nos dan todos los datos entonces restamos el dinero inicial de la cuenta con la multiplicacion de la cantidad que se retira cada semana con la cantidad de semana
 ejercicio6
 en este ejercicio se nos pide crear un programa que le pida tres numeros a un usuario para luego compararlos y decir si el primero es mayor que uno y menor que el otro
-para esto se va a realizar condicionales para decidir cual es mayor
+para esto se va a realizar condicionales para decidir si la condicion principal es verdadera o no
+ejercicio7
+este ejercicio es parecido al anterior en el cual le pedimos tres numeros al usuario y determinamos el mayor
+para resolver este se realizan condicionales para determinar cual es el mayor
