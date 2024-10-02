@@ -9,3 +9,6 @@ para esto las pedi y los tres numeros los sume y los dividi luego por tres
 ejercicio4
 En este ejercicio se nos pide hallar el precio de una camisa y de un pantalon aplicando un descuent y se nos habla que si se compran dos camisetas hay mas descuento
 Para resolverlo le pido al usuario que ingrese la cantidad de las camisas y de acuerdo a eso genere un condicional dentro del cual estan las operaciones necesarias para realizar el programa
+ejercicio5
+En este ejercicio se nos pide que hallemos el dinero restante despues de un mes de contantes retiros por cada semana
+pa resolverlo es muy sencillo porque ya nos dan todos los datos entonces restamos el dinero inicial de la cuenta con la multiplicacion de la cantidad que se retira cada semana con la cantidad de semana
