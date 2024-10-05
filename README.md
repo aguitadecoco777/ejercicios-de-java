@@ -23,4 +23,6 @@ para este ejercicio toca primero que todo realizar un ciclo en este caso con for
 *ejercicio9*
 en este ejercicio tuve que llamar dos variables una que tomara el valor incial de la otra y meter dentro de un ciclo la actualizacion de estas variables
 *ejercicio10*
-se realiza un cociclio que recorre durante el numero de i sea menor que el que ingreso el usuaro y se le agrega una condicion para validar si es impar o no
+se realiza un ciclo que recorre durante el numero de i sea menor que el que ingreso el usuaro y se le agrega una condicion para validar si es impar o no
+*ejercicio11*
+para esto lo primero que hay que hacer es un ciclo que recorra los numeros del 1 al 100, luego de esto realizamos dentro otro ciclo que me va a dar a la otra variable que va aumentando mientras la otra se mantiene estatica, esto con el fin de poder realizar una condicion que si se cumple aumente un contador y este nos permite determinar cuantos son los divisores del numero y con esto determinar si son primos o no
