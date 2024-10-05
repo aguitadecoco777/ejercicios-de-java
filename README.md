@@ -20,3 +20,7 @@ este ejercicio es parecido al anterior en el cual le pedimos tres numeros al usu
 para resolver este se realizan condicionales para determinar cual es el mayor
 *ejercicio8*
 para este ejercicio toca primero que todo realizar un ciclo en este caso con for para de esta forma recorres los numeros del 1 al 100 al hacer estose realiza tres condicionales para de esta forma cambiar los resultados de las los mutiplos por palabras
+*ejercicio9*
+en este ejercicio tuve que llamar dos variables una que tomara el valor incial de la otra y meter dentro de un ciclo la actualizacion de estas variables
+*ejercicio10*
+se realiza un cociclio que recorre durante el numero de i sea menor que el que ingreso el usuaro y se le agrega una condicion para validar si es impar o no
