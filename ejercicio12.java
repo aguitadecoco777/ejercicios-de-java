@@ -23,7 +23,7 @@ public class ejercicio12 {
             int ladoCuadrado=sc.nextInt();
             int areaCuadrado=ladoCuadrado*ladoCuadrado;
             System.out.println("el area del cuadrado es "+areaCuadrado);
-            break;
+            break;              
             case 3:
             System.out.println("ingrese el valor de la base del rectangulo");
             int baseRectangulo=sc.nextInt();

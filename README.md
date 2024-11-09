@@ -28,3 +28,5 @@ se realiza un ciclo que recorre durante el numero de i sea menor que el que ingr
 para esto lo primero que hay que hacer es un ciclo que recorra los numeros del 1 al 100, luego de esto realizamos dentro otro ciclo que me va a dar a la otra variable que va aumentando mientras la otra se mantiene estatica, esto con el fin de poder realizar una condicion que si se cumple aumente un contador y este nos permite determinar cuantos son los divisores del numero y con esto determinar si son primos o no
 *ejercicio12*
 para este ejercicio voy  a pedir los diferentes valores necesarios para calcular el area de la figura geometrica escojida por el mismo usuario, lo cual lo voy a realizar mediante un swith
+*ejercicio13*
+para este ejercicio muy complicado xd me toco crear tres clases una para contador otra para un array con los continentes y otra para los asistentes y esto porque hice el programa con el objetivo de ir anulando y actualizando tanto un contador como algun elemento del arreglo por eso me toco crear una clase para ambas para poderlas pasar por referencia en el metodo de la clase de cambiar valores para asi identificar si habia por lo menos uno de cada continente
