@@ -1,8 +1,11 @@
+**ejercicios unidad uno**
+*ejercicio0*
+En este ejercicio se nos pide q practiquemos la delcaracion de variables.
 *ejercicio1*
+en este ejercicio se nos pedia cambiar los valores magicos por constantes
+*ejercicio2*
 en este ejercicio lo que me pide es que el usuario ingrese dos numeros y ademas que haga operaciones con ellos;
 entonces despues de pedir los numeros inicializando el escaner como sc, inicialice 5 variables que representan las 5 operaciones fundamentales y imprimi los resultados
-*ejercicio2*
-en este ejercicio se nos pedia hacer un programa que le pida al usuario ciertas caracteristicas y luegue hacer un mendaje con el
 *ejercicio3*
 en este ejercicio se me pedia pedir tres numeros por teclado para sacarles las media
 para esto las pedi y los tres numeros los sume y los dividi luego por tres
@@ -29,4 +32,15 @@ para esto lo primero que hay que hacer es un ciclo que recorra los numeros del 1
 *ejercicio12*
 para este ejercicio voy  a pedir los diferentes valores necesarios para calcular el area de la figura geometrica escojida por el mismo usuario, lo cual lo voy a realizar mediante un swith
 *ejercicio13*
-para este ejercicio muy complicado xd me toco crear tres clases una para contador otra para un array con los continentes y otra para los asistentes y esto porque hice el programa con el objetivo de ir anulando y actualizando tanto un contador como algun elemento del arreglo por eso me toco crear una clase para ambas para poderlas pasar por referencia en el metodo de la clase de cambiar valores para asi identificar si habia por lo menos uno de cada continente
+en este ejercicio se nos pedia hacer un programa que le pida al usuario ciertas caracteristicas y luegue hacer un mendaje con el
+*ejercicio14*
+este ejercicio pedia q se pudieran contar cuantos dijitos habian pares del uno al cien
+*ejercicio15*
+En este ejercicio se nos pedia hacer un menu q le permitiera al usuario realizar una accion con dos numeros q se los pedi directamente al usuario tmb
+*ejercicio16*
+En este ejercicio se nos pide q recorramos un numero con un ciclo while para ir multiplicando los numeros por ellos mismos y hasta el uno
+*ejercicio17*
+en este ejercicio se nos pide hacer las tablas de multiplicar de un numero q pida el usuario
+*ejercicio18*
+en este ejercicio se nos pide q el usuario ingrese cinco numeros por teclado los almacene en un array y se les saque el promedio
+**fin de ejercicios de la unidad 1**
