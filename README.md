@@ -47,4 +47,27 @@ en este ejercicio se nos pide q el usuario ingrese cinco numeros por teclado los
 En este ejercicio se nos pide encontrar laas vocales en una palabra para ello debo utilizar un tolowerCase para evitar exclusiones por si las letras esten en mayusculas o minusculas y un ciclo pa iterar la palabra letra a letra para lo cual se usa el charAT
 *ejercicio20*
 en este ejercicio se nos pedia calcular el mayor y el menor numero dentro de un array y para ello se le asigna a ambos un valor de la posicion inicial cero y se van comparando con el resto de valores y actualizar los datos si es necesario
+*ejercicio21*
+en este ejercicio se nos pide invertir los numeros de un array para ello se pide el tamaño del array y se piden los numeros q van a ir en el mismo y luego mediante un ciclo se invierten los numeros
+*ejercio22*
+en este ejercicio se nos pide mostrar la cantidad de un dijito q tiene un numero entero ingresado por el usuario para esto se utiliza /= para poder eliminar el ultimo dijito y aumentar el contador
+*ejercicio23*
+en este ejercicio se nos pide q el usuario inngrese los lados de un triangulo y nosotros a travez de esto determinemos el tipo del mismo
+*ejercicio24* 
+para este ejercicio se nos pide q le pidamos al usuario q ingrese un año y atravez de este identificar si es biciesto o no
 **fin de ejercicios de la unidad 1**
+
+
+**inicio de los ejercicios de la segunda unidad**
+*ejercicio25*
+en este ejercicio se nos pide q se cambie por referencia el nombre de una persona
+*ejercicio26*
+en este ejercicio se nos pide q incrementemo el valor de un numero mediante metodos
+*ejercicio27*
+en este ejercicio se nos pide q intercambiemos el valor de dos numeros mediante metodos
+*ejercicio28*
+en este ejercicio se nos pide q tomemos un array le le modifiquemos sus datos mediante un metodo y se impriman como cadenas de texto
+*ejercicio29*
+en este ejercicio se nos pide q cambie un texto por otro atravez de un metodo
+*ejercicio30*
+en este ejercicio se nos pide q se cree una clase Rectangulo co ciertos atributos y despues modificarlos mediante un metodo
