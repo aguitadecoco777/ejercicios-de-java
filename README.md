@@ -43,4 +43,8 @@ En este ejercicio se nos pide q recorramos un numero con un ciclo while para ir 
 en este ejercicio se nos pide hacer las tablas de multiplicar de un numero q pida el usuario
 *ejercicio18*
 en este ejercicio se nos pide q el usuario ingrese cinco numeros por teclado los almacene en un array y se les saque el promedio
+*ejercicio19*
+En este ejercicio se nos pide encontrar laas vocales en una palabra para ello debo utilizar un tolowerCase para evitar exclusiones por si las letras esten en mayusculas o minusculas y un ciclo pa iterar la palabra letra a letra para lo cual se usa el charAT
+*ejercicio20*
+en este ejercicio se nos pedia calcular el mayor y el menor numero dentro de un array y para ello se le asigna a ambos un valor de la posicion inicial cero y se van comparando con el resto de valores y actualizar los datos si es necesario
 **fin de ejercicios de la unidad 1**
