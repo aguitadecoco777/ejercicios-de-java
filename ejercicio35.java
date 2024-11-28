@@ -65,7 +65,7 @@ class asistentes{
             }
     }
 }
-public class ejercicciounidad3 {
+public class ejercicio35 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         asistentes n=new asistentes(null, null, null, null, null, 0, false);

@@ -71,3 +71,20 @@ en este ejercicio se nos pide q tomemos un array le le modifiquemos sus datos me
 en este ejercicio se nos pide q cambie un texto por otro atravez de un metodo
 *ejercicio30*
 en este ejercicio se nos pide q se cree una clase Rectangulo co ciertos atributos y despues modificarlos mediante un metodo
+*ejercicio31*
+en este ejercicio se nos pide cambiar el valor de un numero mediante metodos
+*ejercicio32*
+en este ejercicio se nos pide q modificquemos mediante un metodo dos datos de un punto
+*ejercicio33*
+en este ejercicio se nos pide cambiar el atributo de una clase mediante un metodo
+**fin unidad dos**
+
+
+**inicio unidad 3**
+*ejercicio34*
+en este ejercicio se nos pide manejar una exepcion para una division por cero
+*ejercicio35*
+en este ejercicio se nos pide q gestionemos la entrada de unos asistentes a un ee¿vento y q se encuentren por lo menos uno de cada continente
+*ejercicio36*
+este ejercicio nos pide q practiquemos el majenp de exepciones
+**fin unidad 3**
